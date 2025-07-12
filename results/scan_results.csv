@@ -1,0 +1,3 @@
+target,port,service,banner,vulnerable
+scanme.nmap.org,22,SSH,,False
+scanme.nmap.org,80,HTTP,HTML Content Detected,False

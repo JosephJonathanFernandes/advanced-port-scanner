@@ -1,0 +1,16 @@
+[
+    {
+        "target": "scanme.nmap.org",
+        "port": 22,
+        "service": "SSH",
+        "banner": "",
+        "vulnerable": false
+    },
+    {
+        "target": "scanme.nmap.org",
+        "port": 80,
+        "service": "HTTP",
+        "banner": "HTML Content Detected",
+        "vulnerable": false
+    }
+]

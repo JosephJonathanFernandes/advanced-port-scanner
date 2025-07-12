@@ -1,0 +1,47 @@
+Scan for 192.168.1.1 at 20250712_224933
+Port 110 | pop3 | No banner
+
+Scan for scanme.nmap.org at 20250712_225231
+Port 22 | ssh | 
+Port 80 | http | HTTP/1.1 400 Bad Request
+Date: Sat, 12 Jul 2025 17:22:27 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Content-Length: 306
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at scanme.nmap.org Port 80</address>
+</body></html>
+
+Scan for scanme.nmap.org at 20250712_225617
+Port 22 | SSH | No banner
+Port 80 | HTTP | HTML Content Detected
+
+Scan for scanme.nmap.org at 20250712_225853
+Port 22 | SSH | 
+Port 80 | HTTP | HTML Content Detected
+
+Scan for 192.168.1.1 at 20250712_230526
+
+Scan for 192.168.1.2 at 20250712_230528
+
+Scan for scanme.nmap.org
+
+ at 20250712_230607
+
+Scan for 192.168.1.1 at 20250712_230922
+
+Scan for 192.168.1.2 at 20250712_230923
+
+Scan for scanme.nmap.org at 20250712_230959
+scanme.nmap.org Port 22 | SSH | 
+scanme.nmap.org Port 80 | HTTP | HTML Content Detected
+
